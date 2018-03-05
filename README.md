@@ -273,5 +273,8 @@ HashMap  https://zhuanlan.zhihu.com/p/27325430
 
 http://blog.csdn.net/a296777513/article/details/73610719
 
+https://www.jianshu.com/p/c70989bd5f29
 
+插件化博客：
+http://weishu.me/2016/01/28/understand-plugin-framework-overview/
 
